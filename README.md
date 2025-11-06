@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<div align="center">  
+  <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Qi Liu and I like HTML" src="images/personal_note.svg" />
@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 
 <!-- Footer -->
 
-<div align="center">
+<div align="center"> 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/LQ67-67/LQ67-67/blob/main/images/marquee.svg" />
 <br />
 
 </div>
