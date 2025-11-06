@@ -17,7 +17,7 @@
           }
         }
       </style>
-      <strong>My Name is Qi Liu and I like <span class="blink">HTML.</span></strong>
+      <strong>My Name is Qi Liu and I like <span class="blink">HTML</span></strong>
 		</div>
 	</foreignObject>
 </svg>
