@@ -22,10 +22,7 @@ const qiLiu = {
 
 ## 📊 GitHub Stats
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=LQ67-67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LQ67-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
