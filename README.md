@@ -7,7 +7,7 @@
 
 <!-- Welcome Banner -->
 <div align="center">
-  <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" style="max-width: 100%;"/>
+  <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br /><br />
   <img height="50" alt="My Name is Qi Liu and I like HTML" src="images/personal_note.svg" />
 </div>
@@ -29,10 +29,10 @@
 ```typescript
 const qiLiu = {
     name: "Qi Liu",
-    location: "🌏 Malaysia",
+    location: "🌏 Johor Bahru, Malaysia",
     role: "Web Developer & Designer",
     code: ["HTML", "CSS", "JavaScript", "C", "Python"],
-    interests: ["Web Dev", "Full-Stack Programmer", "Open Source"],
+    interests: ["Web Dev", "UI/UX", "Open Source"],
     motto: "Code with passion, design with purpose ✨"
 };
 ```
@@ -50,18 +50,11 @@ const qiLiu = {
 
 ## 📊 GitHub Statistics
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=LQ67-67&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LQ67-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<p align="center">
+  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=LQ67-67&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
+  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LQ67-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
 
 </div>
 
