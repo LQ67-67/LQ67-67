@@ -1,8 +1,3 @@
-<div align="center">
-
-<!-- Dynamic Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Qi+Liu+%F0%9F%91%8B;Welcome+to+my+coding+universe+%F0%9F%8C%8C;Let's+build+something+amazing!" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
@@ -148,13 +143,6 @@ const qiLiu = {
 </div>
 
 ---
-
-<!-- Footer -->
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/LQ67-67/LQ67-67/main/images/marquee.svg" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
 
 ### ⭐️ From [LQ67-67](https://github.com/LQ67-67) with 💜
 
