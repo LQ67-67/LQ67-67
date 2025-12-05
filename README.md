@@ -1,6 +1,5 @@
 <!-- Hero Header -->
 <div align="center">
-  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&,animation=twinkling"/>
 </div>
 <!-- Welcome Banner -->
@@ -9,13 +8,10 @@
   <br /><br />
   <img height="50" alt="My Name is Qi Liu and I like HTML" src="images/personal_note.svg" />
 </div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- About Me Card -->
 <div align="center">
-
 ## 🚀 About Me
 
 <table>
@@ -47,9 +43,9 @@ const qiLiu = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=LQ67-67&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LQ67-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="32%" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="32%" height="180" src="https://streak-stats.demolab.com?user=LQ67-67&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
+  <img width="32%" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LQ67-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 </div>
