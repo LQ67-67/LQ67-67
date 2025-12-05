@@ -17,20 +17,6 @@
 
 ### 🚀 About Me
 
-```typescript
-const qiLiu = {
-    location: "🌏 Johor Bahru, Malaysia",
-    code: ["HTML", "CSS", "JavaScript", "Python", "C", "TypeScript"],
-    interests: ["Web Development", "UI/UX Design", "Open Source"],
-    currentFocus: "Building beautiful web experiences",
-    funFact: "I turn coffee into code ☕️"
-};
-```
-
-</div>
-
----
-
 <!-- Stats Section -->
 <div align="center">
 
