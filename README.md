@@ -36,7 +36,7 @@ const qiLiu = {
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,python,git,github,vscode,figma&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode,figma&theme=dark" alt="Tech Stack" />
 
 </div>
 
