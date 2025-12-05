@@ -2,17 +2,13 @@
 <div align="center">
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&,animation=twinkling"/>
-
 </div>
-
 <!-- Welcome Banner -->
 <div align="center">
   <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br /><br />
   <img height="50" alt="My Name is Qi Liu and I like HTML" src="images/personal_note.svg" />
 </div>
-
-<br />
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
