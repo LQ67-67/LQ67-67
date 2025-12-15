@@ -112,12 +112,6 @@ const qiLiu = {
 <!-- Connect Section -->
 <div align="center">
 
-## 🌐 Connect With Me
-
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-
 ### 🌍 Personal Website
 
 <a href="https://www.liuqi.cc/">
@@ -156,9 +150,9 @@ const qiLiu = {
 <!-- Guestbook -->
 <div align="center">
 
-## 📝 Guestbook
+## 🌐 Connect With Me
 
-<a href="https://github.com/LQ67-67/LQ67-67/issues">
+<a href="https://github.com/LQ67-67/LQ67-67/discussions">
 <img src="images/guestbook.svg" alt="Guestbook">
 </a> 
 
