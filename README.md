@@ -112,6 +112,12 @@ const qiLiu = {
 <!-- Connect Section -->
 <div align="center">
 
+## 📚 GuestBook
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
 ### 🌍 Personal Website
 
 <a href="https://www.liuqi.cc/">
