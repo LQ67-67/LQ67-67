@@ -231,10 +231,4 @@ const qiLiu = {
 <sub>Thank you for visiting my profile! 🙏</sub>
 
 </div>
-
-<br />
-### ⭐️ From [LQ67-67](https://github.com/LQ67-67) with 💜
-
-**Made with ❤️ and lots of ☕️**
-
 </div>
