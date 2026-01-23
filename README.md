@@ -99,7 +99,7 @@ const qiLiu = {
 <br>Figma
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
 <br>TypeScript
 </td>
 </tr>
