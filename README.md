@@ -110,7 +110,7 @@ const qiLiu = {
 </td>
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=macos" width="48" height="48" alt="macOS" />
+<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="macOS" />
 <br>macOS
 </td>
 <td align="center" width="100">
@@ -119,8 +119,12 @@ const qiLiu = {
 </td>
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-<br>Bash
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="RaspberryPi" />
+<br>RaspberryPi
 </td>
 </table>
 
