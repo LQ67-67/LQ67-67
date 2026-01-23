@@ -1,7 +1,3 @@
-<!-- Hero Header -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&,animation=twinkling"/>
-</div>
 <!-- Welcome Banner -->
 <div align="center">
   <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -237,16 +233,6 @@ const qiLiu = {
 </div>
 
 <br />
-
-<!-- Footer -->
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/LQ67-67/LQ67-67/main/images/marquee.svg" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
-
----
-
 ### ⭐️ From [LQ67-67](https://github.com/LQ67-67) with 💜
 
 **Made with ❤️ and lots of ☕️**
