@@ -82,6 +82,11 @@ const qiLiu = {
 </td>
 </tr>
 <tr>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br>Git
@@ -97,12 +102,26 @@ const qiLiu = {
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 <br>Figma
+</tr>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+<br>Linux
+</td>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=macos" width="48" height="48" alt="macOS" />
+<br>macOS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-<br>TypeScript
+<br>Bash
 </td>
-</tr>
 </table>
 
 </div>
