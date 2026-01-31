@@ -18,7 +18,7 @@
 
 ```typescript
 const qiLiu = {
-    name: "Qi Liu",
+    name: "Liu Qi",
     location: "🌏 Johor Bahru, Malaysia",
     role: "Web Developer & Designer",
     code: ["HTML", "CSS", "JavaScript", "C", "Python"],
