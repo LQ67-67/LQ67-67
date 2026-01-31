@@ -6,9 +6,10 @@
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="4640" height="2039" alt="129850683_p2" src="https://github.com/user-attachments/assets/8f37c166-cc30-4534-a734-1ef2f2d496f0" />
 <!-- About Me Card -->
 <div align="center">
-<img width="4640" height="2039" alt="129850683_p2" src="https://github.com/user-attachments/assets/8f37c166-cc30-4534-a734-1ef2f2d496f0" />
+
 ## 🚀 About Me
 
 <table>
