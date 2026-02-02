@@ -17,12 +17,12 @@
 <td>
 
 ```typescript
-const qiLiu = {
+const Skim = {
     name: "Liu Qi",
     location: "🌏 Johor Bahru, Malaysia",
-    role: "Web Developer & Designer",
+    role: "Developer",
     code: ["HTML", "CSS", "JavaScript", "C", "Python"],
-    interests: ["Web Dev", "UI/UX", "Open Source"],
+    interests: ["Web Dev", "Counter-Strike", "Type-Moon"],
     motto: "Code with passion, design with purpose ✨"
 };
 ```
