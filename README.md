@@ -229,7 +229,7 @@ const Skim = {
 
 <img src="https://komarev.com/ghpvc/?username=LQ67-67&style=for-the-badge&color=a855f7&label=VISITORS" alt="Profile views"/>
 
-<sub>Thank you for visiting my profile! 🙏</sub>
+<sub>Thank you for visiting a rookie's profile!</sub>
 
 </div>
 </div>
