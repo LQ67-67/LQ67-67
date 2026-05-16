@@ -19,7 +19,6 @@
 ```typescript
 const Skim = {
     name: "Qi Liu",
-    location: "🌏 Johor Bahru, Malaysia",
     role: "Developer",
     code: ["HTML", "CSS", "JavaScript", "C", "Python"],
     interests: ["Web Dev", "Counter-Strike", "Type-Moon"],
