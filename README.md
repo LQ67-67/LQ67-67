@@ -20,7 +20,7 @@
 const Skim = {
     name: "Qi Liu",
     role: "Developer",
-    code: ["HTML", "CSS", "JavaScript", "C", "Python"],
+    code: ["Java", "HTML", "CSS", "JavaScript", "C", "Python", "Shell"],
     interests: ["Web Dev", "Counter-Strike", "Type-Moon"],
     motto: "Code with passion, design with purpose ✨"
 };
