@@ -7,30 +7,6 @@
 <!-- About Me Card -->
 <div align="center">
 
-## 🚀 About Me
-
-<table>
-<tr>
-<td>
-
-```typescript
-const Skim = {
-    name: "Qi Liu",
-    role: "Developer",
-    code: ["Java", "HTML", "CSS", "JavaScript", "C", "Python", "Shell"],
-    interests: ["Web Dev", "Counter-Strike", "Type-Moon"],
-    motto: "Code with passion, design with purpose ✨"
-};
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- GitHub Stats -->
 <div align="center">
 
@@ -43,8 +19,6 @@ const Skim = {
 </p>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Stack -->
 <div align="center">
@@ -123,8 +97,6 @@ const Skim = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Connect Section -->
 <div align="center">
 
@@ -142,7 +114,7 @@ const Skim = {
 
 <br />
 
-**[Visit my portfolio →](https://www.liuqi.cc/)**
+**[Visit my own Blog →](https://www.liuqi.cc/)**
 
 <sub>Explore my projects, blog, and more</sub>
 
@@ -167,37 +139,11 @@ const Skim = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Guestbook -->
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://github.com/LQ67-67/LQ67-67/discussions">
-<img src="images/guestbook.svg" alt="Guestbook">
-</a> 
-
-<br />
-
-💭 **Leave your mark!** Drop a message, share your thoughts, or just say hi!
-
-[![Issues](https://img.shields.io/github/issues/LQ67-67/LQ67-67?style=for-the-badge&logo=github&color=a855f7)](https://github.com/LQ67-67/LQ67-67/issues)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Activity Graph -->
-<div align="center">
-
 ## 📈 Contribution Activity
 
 [![Qi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7)](https://github.com/LQ67-67)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Dev Quote -->
 <div align="center">
@@ -215,8 +161,6 @@ const Skim = {
 </table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Profile Views -->
 <div align="center">
