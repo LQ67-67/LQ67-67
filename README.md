@@ -100,50 +100,15 @@
 <!-- Connect Section -->
 <div align="center">
 
-## 📚 GuestBook
-
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-
-### 🌍 Personal Website
-
-<a href="https://www.liuqi.cc/">
-<img alt="Globe" height="100" src="images/globe.gif">
-</a>
-
-<br />
-
-**[Visit my own Blog →](https://www.liuqi.cc/)**
-
-<sub>Explore my projects, blog, and more</sub>
-
-</td>
-<td align="center" width="50%">
-
-### 🎵 Music Vibes
-
-<a href="https://www.youtube.com/watch?v=FtutLA63Cp8&list=RDFtutLA63Cp8&start_radio=1">
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-
-<br />
-
-**[Listen to my playlist →](https://www.youtube.com/watch?v=FtutLA63Cp8&list=RDFtutLA63Cp8&start_radio=1)**
-
-<sub>What I code to 🎧</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
+<!-- 
 
 ## 📈 Contribution Activity
 
 [![Qi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7)](https://github.com/LQ67-67)
 
 </div>
+
+-->
 
 <!-- Dev Quote -->
 <div align="center">
