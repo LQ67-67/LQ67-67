@@ -1,26 +1,46 @@
-<!-- Welcome Banner -->
+<!-- 欢迎横幅（如无图片，会显示alt文本，建议自行上传或删除） -->
 <div align="center">
-  <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/LQ67-67/LQ67-67/blob/main/images/welcome.png?raw=true" 
+       alt="Welcome to my GitHub Profile" style="max-width:100%;" />
   <br /><br />
-  <img height="50" alt="My Name is Qi Liu and I like HTML" src="images/personal_note.svg" />
+  <img height="50" alt="Qi Liu · HTML & Python Lover" 
+       src="images/personal_note.svg" />
 </div>
-<!-- About Me Card -->
+
+---
+
+<!-- 太空射击 GIF - 核心亮点 -->
 <div align="center">
 
-<!-- GitHub Stats -->
+## 🚀 My GitHub Space Shooter
+
+![GitHub Space Shooter](https://raw.githubusercontent.com/LQ67-67/gh-space-shooter/main/game.gif)
+
+> *Every square is a day of code – watch your contributions come alive!*
+
+</div>
+
+---
+
+<!-- GitHub 统计数据 - 三栏均匀排列 -->
 <div align="center">
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="32%" src="https://github-readme-streak-stats-eight.vercel.app/?user=LQ67-67&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabelColor=a855f7" alt="GitHub Streak"/>
-  <img width="13.25%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LQ67-67&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>.
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LQ67-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" style="max-width: 100%; height: auto; width: 40%;" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LQ67-67&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabelColor=a855f7" 
+       alt="GitHub Streak" style="max-width: 100%; height: auto; width: 40%;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LQ67-67&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=6" 
+       alt="Top Languages" style="max-width: 100%; height: auto; width: 16.6%;" />
+</div>
 
 </div>
 
-<!-- Tech Stack -->
+---
+
+<!-- 技术栈 -->
 <div align="center">
 
 ## 🛠️ Tech Arsenal
@@ -97,44 +117,37 @@
 
 </div>
 
-<!-- Connect Section -->
-<div align="center">
+---
 
-<!-- 
+<!-- 活跃度图表（已取消注释，直接显示） -->
+<div align="center">
 
 ## 📈 Contribution Activity
 
-[![Qi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7)](https://github.com/LQ67-67)
+[![Qi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7)](https://github.com/LQ67-67)
 
 </div>
 
--->
+---
 
-<!-- Dev Quote -->
+<!-- 每日名言 -->
 <div align="center">
 
 ## 💭 Wisdom of the Day
 
-<table>
-<tr>
-<td>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</td>
-</tr>
-</table>
 
 </div>
 
-<!-- Profile Views -->
+---
+
+<!-- 访客计数 -->
 <div align="center">
 
 ## 👁️ Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=LQ67-67&style=for-the-badge&color=a855f7&label=VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=LQ67-67&style=for-the-badge&color=a855f7&label=VISITORS" alt="Profile views" />
 
-<sub>Thank you for visiting a rookie's profile!</sub>
+<sub>Thanks for visiting! 🚀</sub>
 
-</div>
 </div>
