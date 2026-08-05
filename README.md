@@ -38,6 +38,16 @@
 
 ---
 
+<div align="center">
+
+## 📈 Contribution Activity
+
+[![Qi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7)](https://github.com/LQ67-67)
+
+</div>
+
+---
+
 <!-- 技术栈 -->
 <div align="center">
 
@@ -112,17 +122,6 @@
 <br>RaspberryPi
 </td>
 </table>
-
-</div>
-
----
-
-<!-- 活跃度图表（已取消注释，直接显示） -->
-<div align="center">
-
-## 📈 Contribution Activity
-
-[![Qi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7)](https://github.com/LQ67-67)
 
 </div>
 
