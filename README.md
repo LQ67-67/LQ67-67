@@ -16,8 +16,6 @@
 
 ![GitHub Space Shooter](https://raw.githubusercontent.com/LQ67-67/gh-space-shooter/main/game.gif)
 
-> *Every square is a day of code – watch your contributions come alive!*
-
 </div>
 
 ---
