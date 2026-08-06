@@ -73,12 +73,4 @@
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 
 ## 💭 Wisdom of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue&border=true)
-
-
-## 👁️ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=LQ67-67&style=for-the-badge&color=4a90d9&label=VISITORS" alt="Profile views" />
-
-<sub>Thanks for visiting! 🚀</sub>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
