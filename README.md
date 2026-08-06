@@ -31,7 +31,7 @@
 
 ## 🛠️ Tech Arsenal
 
-### 编程语言 / Languages
+### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
@@ -42,7 +42,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 
-### 框架与库 / Frameworks & Libraries
+### Frameworks & Libraries
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
@@ -50,27 +50,59 @@
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 
-### 数据库 / Databases
+### Databases
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 
-### DevOps & 工具 / DevOps & Tools
+### DevOps & Tools
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
+[![macOS](https://img.shields.io/badge/macOS-555555?style=flat-square&logo=apple&logoColor=white)](https://github.com/LQ67-67/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/LQ67-67/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/LQ67-67/)
+[![iOS](https://img.shields.io/badge/iOS-555555?style=flat-square&logo=apple&logoColor=white)](https://github.com/LQ67-67/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
 
-### 设计与辅助 / Design & Others
+### Development Tools & Software
 
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
-[![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://github.com/LQ67-67/)](https://github.com/LQ67-67/)
+#### IDEs & Editors
+
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/LQ67-67/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://github.com/LQ67-67/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://github.com/LQ67-67/)
+[![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)](https://github.com/LQ67-67/)
+[![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)](https://github.com/LQ67-67/)
+[![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=rider&logoColor=white)](https://github.com/LQ67-67/)
+[![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://github.com/LQ67-67/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/LQ67-67/)
+
+#### Data Tools
+
+[![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)](https://github.com/LQ67-67/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/LQ67-67/)
+[![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/LQ67-67/)
+
+#### Notes & Productivity
+
+[![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://github.com/LQ67-67/)
+[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://github.com/LQ67-67/)
+[![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)](https://github.com/LQ67-67/)
+[![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)](https://github.com/LQ67-67/)
+[![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/LQ67-67/)
+
+### 🤖 AI Coding Assistants
+
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/LQ67-67/)
+[![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/LQ67-67/)
+[![Kimi Code](https://img.shields.io/badge/-Kimi_Code-00A67E?style=flat-square&logo=moon&logoColor=white)](https://github.com/LQ67-67/)
+[![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/LQ67-67/)
+[![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/LQ67-67/)
 
 ## 💭 Wisdom of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
