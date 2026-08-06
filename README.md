@@ -27,7 +27,7 @@
 
 ## 📈 Contribution Activity
 
-[![Qi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=react-dark&hide_border=true&bg_color=0d1117&color=4a90d9&line=4a90d9&point=c9d1d9&area=true&area_color=4a90d9)](https://github.com/LQ67-67)
+[![Qi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LQ67-67&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=238636&point=58a6ff&area=true&area_color=238636)](https://github.com/LQ67-67)
 
 ## 🛠️ Tech Arsenal
 
